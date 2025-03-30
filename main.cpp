@@ -1,6 +1,6 @@
 ﻿// Dear ImGui: standalone example application for DirectX 11
 
-// Learn about Dear ImGui:
+// Learn about Dear ImGui
 // - FAQ                  https://dearimgui.com/faq
 // - Getting Started      https://dearimgui.com/getting-started
 // - Documentation        https://dearimgui.com/docs (same as your local docs/ folder).
