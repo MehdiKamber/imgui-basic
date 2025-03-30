@@ -3,5 +3,5 @@
 
 ## SOCIAL
 ```markdown
-                                   https://www.youtube.com/@mehdikamber
+                                   mehdikamb & necirvan
 ```
